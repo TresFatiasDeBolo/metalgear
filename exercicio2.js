@@ -1,2 +1,2 @@
-var nome = 'Antony'
-console.log(" ",nome)
+let nome = 'Antony'
+console.log(" ", nome)
